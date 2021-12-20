@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "homepage": "http://megazortti.github.io/megazortti.github.io",
+    "homepage": "http://megazortti.github.io/",
     "@bit/ahojukka5.bloglist.notification": "^0.1.1",
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
