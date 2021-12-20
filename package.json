@@ -2,8 +2,8 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://megazortti.github.io/",
   "dependencies": {
-    "homepage": "https://megazortti.github.io/my-app",
     "@bit/ahojukka5.bloglist.notification": "^0.1.1",
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
